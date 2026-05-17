@@ -1,5 +1,5 @@
 # MCTracker
-Minecraft location tracker. Map/trcking and tagging solution for your own minecraft server.
+Minecraft location tracker. Map/tracking and tagging solution for your own minecraft server.
 
 1. Track your location in Overworld, Nether and The End.
 2. Show the bioms you have visited
